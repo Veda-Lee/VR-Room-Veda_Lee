@@ -15,11 +15,11 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 19
-    y: 86
+    y: 54
     width: 889
     height: 772
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -297,7 +297,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 19
-    y: 542.5
+    y: 510.5
     width: 677.5
     height: 274.5
   m_ViewDataDictionary: {fileID: 0}
@@ -305,7 +305,7 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   m_SearchFilter:
-    m_NameFilter: veda
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -317,39 +317,39 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Challenges
+    - Assets/Scenes
     m_Globs: []
-    m_OriginalText: veda
+    m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Challenges
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/VELEE/Documents/GitHub/VR-Room-Veda_Lee/VR Room - Veda
     L
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fa660000
-    m_LastClickedID: 26362
-    m_ExpandedIDs: 000000000465000006650000086500000a6500000c6500000e65000010650000126500001465000016650000186500001a6500001c65000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 253.68835}
+    m_SelectedIDs: e0660000
+    m_LastClickedID: 26336
+    m_ExpandedIDs: 00000000ee640000f0640000f2640000f4640000f6640000f8640000fa640000fc640000fe64000000650000026500000465000006650000d666000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Settings
+      m_OriginalName: Settings
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 26338
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -361,7 +361,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000465000006650000086500000a6500000c6500000e65000010650000126500001465000016650000186500001a6500001c650000
+    m_ExpandedIDs: 00000000ee640000f0640000f2640000f4640000f6640000f8640000fa640000fc640000fe64000000650000026500000465000006650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -438,7 +438,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 697.5
-    y: 116
+    y: 84
     width: 209.5
     height: 701
   m_ViewDataDictionary: {fileID: 0}
@@ -479,7 +479,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 19
-    y: 116
+    y: 84
     width: 166
     height: 405.5
   m_ViewDataDictionary: {fileID: 0}
@@ -489,9 +489,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4c670000
+      m_SelectedIDs: 22670000
       m_LastClickedID: 0
-      m_ExpandedIDs: 28f8fffff0f8ffff00fbffff
+      m_ExpandedIDs: 3ef2ffffb4f3ffff7af4ffff30f5fffff8f5ffff98f7ffff70f8ffff38f9ffff02fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -536,7 +536,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 186
-    y: 116
+    y: 84
     width: 509.5
     height: 405.5
   m_ViewDataDictionary: {fileID: 0}
@@ -740,9 +740,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.1375656, y: 5.399214, z: -0.6419258}
+    m_Target: {x: -7.0841436, y: 4.9043016, z: 5.4587517}
     speed: 2
-    m_Value: {x: -3.1375656, y: 5.399214, z: -0.6419258}
+    m_Value: {x: -7.0841436, y: 4.9043016, z: 5.4587517}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -789,9 +789,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: -0.12915966, y: 0.81756455, z: -0.20164013, w: -0.5236868}
     speed: 2
-    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Value: {x: -0.12946193, y: 0.8167778, z: -0.20144609, w: -0.5249124}
   m_Size:
     m_Target: 11.574645
     speed: 2
